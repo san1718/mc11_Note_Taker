@@ -14,5 +14,6 @@
 
 ## Links
 [Home](https://github.com/san1718/mc11_Note_Taker)
+<br />
 [Deployed]()
 ## Screenshots
