@@ -36,5 +36,5 @@ The users will be able to wirte and save notes to keep track.
 [Deployed]()
 
 ## Screenshots
-<img width="1000" alt="Homepage" src="">
-<img width="1000" alt="Notes" src="">
+<img width="1000" alt="Homepage" src="https://github.com/san1718/mc11-Note_Taker/blob/main/public/assets/images/Homepage.png">
+<img width="1000" alt="Notes" src="https://github.com/san1718/mc11-Note_Taker/blob/main/public/assets/images/Notes.png">
