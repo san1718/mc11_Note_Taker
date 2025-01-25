@@ -1,6 +1,21 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "id": "f1bd5d80-03a6-4a2a-9087-7388a5985c64",
+    "title": "First Note!",
+    "text": "This is the first note!\nCreate more later to keep track.\n"
+  },
+  {
+    "id": "6d325c57-f550-460e-89ca-67b1ff26b83a",
+    "title": "Shopping List",
+    "text": "* Bread\n* Milk\n* Eggs"
+  },
+  {
+    "id": "43496e5e-a280-4ee4-878e-f12d6d647175",
+    "title": "To-do",
+    "text": "* Create notes\n* Check notes\n* Finish notes"
+  }
 ]
